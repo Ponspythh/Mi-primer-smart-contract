@@ -1,8 +1,8 @@
-# Basic Sample Hardhat Project
+# Primer contrato en Solidity
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Este proyecto intenta demostrar un primer proyecto usando hardhat y solidity de un contrato totalmente funcional con test, deploy e implementación
 
-Try running some of the following tasks:
+Podés probarlo con los siguientes comandos: 
 
 ```shell
 npx hardhat accounts
